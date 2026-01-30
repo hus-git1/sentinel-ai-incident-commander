@@ -1,4 +1,4 @@
-# 🛡️ SENTINEL AI — Incident Commander
+#  SENTINEL AI — Incident Commander
 
 > **Autonomous SOC Decision Engine powered by Gemini 3**
 
@@ -8,52 +8,52 @@
 
 ---
 
-## 🎯 Problem
+##  Problem
 
 Security Operations Centers face an impossible challenge: thousands of alerts, fragmented logs across dozens of systems, and attackers that move faster than human analysts can respond. Current tools surface data — but **humans still do the thinking**.
 
-## 💡 Solution
+##  Solution
 
 **SENTINEL AI** transforms incident response from reactive to proactive. It uses Gemini 3's multimodal reasoning to **think like a senior SOC analyst** — classifying threats, reconstructing attack paths, and generating actionable response playbooks in seconds.
 
 ---
 
-## ✨ Features
+## Features
 
 | Feature | Description |
 |---------|-------------|
-| **🎯 Multi-Stage Analysis** | Assessment → Kill Chain → Playbook tabs |
-| **🔗 MITRE ATT&CK Mapping** | Automatic technique identification (T1110, T1078, etc.) |
-| **📋 NIST Response Playbook** | Structured IR phases with role assignments |
-| **🧠 Logical Reasoning Path** | Transparent AI decision-making process |
-| **📊 Risk Pulse Visualization** | Real-time severity and alert tracking |
-| **🖼️ Multimodal Input** | Analyze logs + network diagrams together |
-| **⚡ Real-Time Analysis** | Sub-minute response vs. hours of manual work |
+| ** Multi-Stage Analysis** | Assessment → Kill Chain → Playbook tabs |
+| ** MITRE ATT&CK Mapping** | Automatic technique identification (T1110, T1078, etc.) |
+| ** NIST Response Playbook** | Structured IR phases with role assignments |
+| ** Logical Reasoning Path** | Transparent AI decision-making process |
+| ** Risk Pulse Visualization** | Real-time severity and alert tracking |
+| ** Multimodal Input** | Analyze logs + network diagrams together |
+| ** Real-Time Analysis** | Sub-minute response vs. hours of manual work |
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 ### Assessment Tab
-![Assessment](assets/screenshots/ss2.png)
+![Assessment](screenshots/ss2.png)
 *Incident summary, threat classification, and logical reasoning path*
 
 ### Kill Chain Tab
-![Kill Chain](assets/screenshots/ss3.png)
+![Kill Chain](screenshots/ss3.png)
 *MITRE ATT&CK mapping with technique descriptions*
 
 ### Playbook Tab
-![Playbook](assets/screenshots/ss4.png)
+![Playbook](screenshots/ss4.png)
 *NIST-aligned response actions with responsibility assignments*
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
 │                      INPUT LAYER                            │
-│   📋 Security Logs    🚨 SIEM Alerts    🗺️ Network Diagrams  │
+│     Security Logs      SIEM Alerts      Network Diagrams    │
 └─────────────────────────────────────────────────────────────┘
                               │
                               ▼
@@ -69,13 +69,13 @@ Security Operations Centers face an impossible challenge: thousands of alerts, f
                               ▼
 ┌─────────────────────────────────────────────────────────────┐
 │                     OUTPUT LAYER                            │
-│   📊 Risk Score    🔗 MITRE Mapping    📋 NIST Playbook      │
+│     Risk Score      MITRE Mapping      NIST Playbook        │
 └─────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 🚀 Live Demo
+##  Live Demo
 
 **[→ Try SENTINEL AI Live](https://sentinel-ai-incident-commander-954633605210.us-west1.run.app)**
 
@@ -90,7 +90,7 @@ Security Operations Centers face an impossible challenge: thousands of alerts, f
 
 ---
 
-## 📝 Gemini 3 Integration (200 Words)
+##  Gemini 3 Integration (200 Words)
 
 **SENTINEL AI** leverages the advanced reasoning and multimodal capabilities of the Gemini 3 API to function as an autonomous security incident decision engine rather than a conversational assistant.
 
@@ -106,7 +106,7 @@ The "Logical Reasoning Path" feature makes AI decision-making transparent, showi
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Component | Technology |
 |-----------|------------|
@@ -118,7 +118,7 @@ The "Logical Reasoning Path" feature makes AI decision-making transparent, showi
 
 ---
 
-## 👤 Author
+## Author
 
 **Hussam**  
 Computer Science Graduate Student | FAST NUCES  
@@ -129,7 +129,7 @@ Cybersecurity & AI/ML Focus
 
 ---
 
-## 📄 License
+## License
 
 MIT License — See [LICENSE](LICENSE) for details.
 
