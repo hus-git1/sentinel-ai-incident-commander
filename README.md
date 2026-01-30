@@ -35,15 +35,15 @@ Security Operations Centers face an impossible challenge: thousands of alerts, f
 ## 📸 Screenshots
 
 ### Assessment Tab
-![Assessment](assets/screenshots/assessment.png)
+![Assessment](assets/screenshots/ss2.png)
 *Incident summary, threat classification, and logical reasoning path*
 
 ### Kill Chain Tab
-![Kill Chain](assets/screenshots/killchain.png)
+![Kill Chain](assets/screenshots/ss3.png)
 *MITRE ATT&CK mapping with technique descriptions*
 
 ### Playbook Tab
-![Playbook](assets/screenshots/playbook.png)
+![Playbook](assets/screenshots/ss4.png)
 *NIST-aligned response actions with responsibility assignments*
 
 ---
@@ -53,7 +53,7 @@ Security Operations Centers face an impossible challenge: thousands of alerts, f
 ```
 ┌─────────────────────────────────────────────────────────────┐
 │                      INPUT LAYER                            │
-│   📋 Security Logs    🚨 SIEM Alerts    🗺️ Network Diagrams │
+│   📋 Security Logs    🚨 SIEM Alerts    🗺️ Network Diagrams  │
 └─────────────────────────────────────────────────────────────┘
                               │
                               ▼
@@ -69,7 +69,7 @@ Security Operations Centers face an impossible challenge: thousands of alerts, f
                               ▼
 ┌─────────────────────────────────────────────────────────────┐
 │                     OUTPUT LAYER                            │
-│   📊 Risk Score    🔗 MITRE Mapping    📋 NIST Playbook     │
+│   📊 Risk Score    🔗 MITRE Mapping    📋 NIST Playbook      │
 └─────────────────────────────────────────────────────────────┘
 ```
 
